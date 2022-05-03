@@ -1,0 +1,6 @@
+{
+    "variables": {
+        "BASE_URL": "https://111coding.github.io/books-Gitbook",
+        "RAW_URL": "https://raw.githubusercontent.com/111coding/books-Gitbook/master/_res"
+    }
+}
